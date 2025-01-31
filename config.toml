@@ -1,6 +1,6 @@
 title = "Chez M. Dec"
 #base_url = "http://localhost:1111"
-base_url = "https://nathandecou.github.io/blog/"
+base_url = "https://nathandecou.github.io"
 description = ""
 
 compile_sass = true
